@@ -1,2 +1,4 @@
+a=10
+b=5
 
-x=a-b
+echo "subtractio: $((a-))"b
